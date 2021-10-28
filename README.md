@@ -1,6 +1,6 @@
 # 👋🏼🤓Nice to meet you!
 
-### `🙋🏻‍♂️I_am`
+### `🙋🏻‍♂️I am`
 >- 🇰🇷**JinwangMok**
 >- 🏛in the 3rd year of University
 >- ⚙️majoring in Computer Science
