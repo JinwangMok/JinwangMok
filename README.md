@@ -9,7 +9,7 @@
 >- ⚙️majoring in Computer Science
 >- 🤖interested in Natural Language Processing(NLP)
 >- 🆅using VIM one of the wonderful editor
->- 😎ESTX(J/P) according to MBTI test
+>- 😎ENTX(J/P) according to MBTI test
 
 
 ### `📘Learning`
