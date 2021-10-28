@@ -4,7 +4,7 @@
 </div>
 
 ### `🚀I am`
->- 🇰🇷**JinwangMok**
+>🇰🇷**JinwangMok**
 >- 🏛in the 3rd year of University
 >- ⚙️majoring in Computer Science
 >- 🤖interested in Natural Language Processing(NLP)
