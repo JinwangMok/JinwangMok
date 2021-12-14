@@ -6,7 +6,7 @@
 ### `🚀I am`
 >🇰🇷**JinwangMok**
 >- 🏛in the 3rd year of University
->- ⚙️majoring in Computer Science
+>- ⚙️majoring in Computer Engineering
 >- 🤖interested in Natural Language Processing(NLP)
 >- 🆅using VIM one of the wonderful editor
 >- 😎ENTX(J/P) according to MBTI test
