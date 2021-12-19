@@ -8,13 +8,12 @@
 >- 🏛in the 3rd year of University
 >- ⚙️majoring in Computer Engineering
 >- 🤖interested in Natural Language Processing(NLP)
->- 🆅using VIM one of the wonderful editor
 >- 😎ENTX(J/P) according to MBTI test
 
 
 ### `📘Learning`
 >- 🗣 C, C++, Java, Javascript, SQL, Python, (R)
->- 🧱 {Node.js}, ReactJS, {Flask}, Pandas, Numpy, Matplotlib, Tensorflow, Scikit-learn
+>- 🧱 Node.js, ReactJS, {Flask}, Pandas, Numpy, Matplotlib, Tensorflow, Scikit-learn
 >- 📚 Linear Algebra, {Statistics}, {Optimization Theory}, {infinitesimal calculus}
 >- 🔧 Arduino, Raspbbery pi, {Cloud computing(AWS)}, {Docker}, Vim script, Cmake, Notion, Kaggle
 >
