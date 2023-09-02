@@ -3,6 +3,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinwangMok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
+Updating...👨🏻‍💻
+
+<!--
 ### `🚀I am`
 >🇰🇷**JinwangMok**
 >- 🏛 in the 8th semester(undergraduated)
@@ -10,7 +13,7 @@
 >- 🔎 undergraudate Researcher
 >- 🤖 interested in Virtual Assistant, HCI, Multimodal Learning, Efficient ML, Generative Model, 3D Vision, NLP/NLI, HCI. etc.
 >- 😎 MBIT: ENTJ
-
+-->
 <!--
 ### `📘Learning`
 >- 🗣 C, <C++>, Java, Javascript, SQL, \<Python\>, Rust, LabVIEW
