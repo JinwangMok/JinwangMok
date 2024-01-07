@@ -30,8 +30,10 @@ Updating...👨🏻‍💻
 ### `📱Contact`
 >- 📧[e-mail](jinwangmok@gmail.com "wlsdhkd8040@gmail.com")
 >- ❤️[Instagram](https://www.instagram.com/jinwang_mok/ "@jinwang_mok")
+<!--
 >- 🔖[Linkedin](https://www.linkedin.com/in/jinwangMok1997 "@Jinwang Mok")
 >- 🖋[Blog](https://www.jinwangmok.com "www.jinwangmok.com")
+-->
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinwangMok)](https://github.com/JinwangMok/github-readme-stats)
 -->
