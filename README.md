@@ -41,15 +41,6 @@ I'm a **M.S.-Ph.D. Integrated** student at [GIST (Gwangju Institute of Science a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://www.jinwangmok.com">JinwangSpace</a></h4>
-      <p>Personal website built with Astro 5 + Tailwind CSS. Blog, project showcase, and CV.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" alt="MDX" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/JinwangMok/ScaleX-POD-mini">ScaleX-POD-mini</a></h4>
       <p>Unified SDI-to-GitOps platform. Bare-metal to multi-cluster Kubernetes with a single Rust CLI.</p>
       <p>
