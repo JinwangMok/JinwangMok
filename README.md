@@ -2,7 +2,7 @@
 <h3 align="center">AI Convergence Researcher @ GIST &nbsp;|&nbsp; Building Intelligent Infrastructure</h3>
 
 <p align="center">
-  <a href="https://www.jinwangmok.com"><img src="https://img.shields.io/badge/Website-jinwangmok.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: jinwangmok.com" /></a>
+  <a href="https://www.jinwang.me"><img src="https://img.shields.io/badge/Website-jinwangmok.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: jinwang.me" /></a>
   <a href="mailto:jinwangmok@gmail.com"><img src="https://img.shields.io/badge/Email-jinwangmok@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Jinwang" /></a>
   <a href="https://www.linkedin.com/in/jinwangMok1997"><img src="https://img.shields.io/badge/LinkedIn-Jinwang_Mok-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </p>
